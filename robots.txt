@@ -1,0 +1,4 @@
+# robots.txt  
+User-agent: *
+Disallow: /201.html
+Sitemap: https://skydigisoftware/sitemap.xml
